@@ -24,7 +24,7 @@ source: https://docs.microsoft.com/fr-fr/windows/wsl/install-win10#step-4---down
 Or if you need specific distribution type : 
 
 <code> wsl --list --online </code>
-<code> wsl --install -d <Distribution Name> </code>
+<code> wsl --install -d DistributionName </code>
   
   
 And check his WSL version with :
